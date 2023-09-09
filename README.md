@@ -62,6 +62,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sudharsteyn/sudharsteyn/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sudharsteyn.sudharsteyn&left_color=blueviolet&right_color=green"  />
+</div>
 
 ###
